@@ -1,0 +1,4 @@
+#fichier en commentaire
+#fichier de configuration a ignorer.
+*.exe
+*.o
